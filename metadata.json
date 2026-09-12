@@ -1,0 +1,6 @@
+{
+  "name": "Rekart Daily - Milk & Dairy Delivery",
+  "description": "Local milk and dairy delivery platform with real-time order tracking, subscription management, and dedicated delivery driver portal.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
